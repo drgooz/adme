@@ -1,0 +1,24 @@
+[Adblock Plus 2.0]
+
+! Title: AD
+
+
+! ---------- Generic Blocking Rules ----------
+
+||123nhadatviet.net/Media/CK/banners/
+
+https://ophim.org/popup.jpg
+ophim.org###popup-giua-man-hinh > div.popUpBannerBox:nth-child(2) > div.popUpBannerInner > div.popUpBannerContent
+ophim.org###popup-giua-man-hinh > div.popUpBannerBox:nth-child(2) > div.popUpBannerInner > div.popUpBannerContent
+ophim.org###popup-giua-man-hinh > div.popUpBannerBox:nth-child(2) > div.popUpBannerInner
+ophim.org###popup-giua-man-hinh > div.popUpBannerBox:nth-child(2) > div.popUpBannerInner > div.popUpBannerContent
+ophim.org###catfish > button.closecf:first-child
+ophim.org###catfish > a:nth-child(3) > img.catfish-img
+ophim.org###catfish > a:nth-child(3) > img.catfish-img
+ophim.org###catfish > button.closecf:first-child
+livescore.com###ls6-widget > div.Ye > div.Ze:nth-child(2) > div.af:first-child > div.bf:first-child > span > br
+livescore.com###ls6-widget > div.Ye > div.Ze:nth-child(2) > div.af:first-child > div.cf:last-child
+livescore.com###ls6-widget > div.Ye > div.Ze:nth-child(2) > div.af:first-child
+livescore.com###ls6-widget > div.Ye > div.Ze:nth-child(2)
+livescore.com###ls6-widget > div.Ye
+livescore.com###match-rows__root > div:last-child > div > div > div:first-child > div.We:last-child
