@@ -22,3 +22,4 @@ livescore.com###ls6-widget > div.Ye > div.Ze:nth-child(2) > div.af:first-child
 livescore.com###ls6-widget > div.Ye > div.Ze:nth-child(2)
 livescore.com###ls6-widget > div.Ye
 livescore.com###match-rows__root > div:last-child > div > div > div:first-child > div.We:last-child
+thuocbietduoc.com.vn###hl > div.block_pos
