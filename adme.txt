@@ -7,20 +7,17 @@
 
 ||zaloweb.vn^
 
-thanhnien.vn##zone
 
 
 
 
 
-!------ ABPVN Adult block -------
+
+!------ my filter-------
 
 ||yr.fopbandido.com^
-!---------- ABPVN Adult Element Hide ---------------
-##iframe[src^="https://media.vivaclix.com/js/ifr.html?"]
-buomtv.tv##._9xtpcl.c4je67d.c1qs0lzc.c1hrlkpu.cc2icwl.c1i0iccj.cfd18df
-buomtv.tv##._9xtpcl.e1e6v8dt
-buomtv.tv##.llnefd1
+!---------- my filter ---------------
+
 buomtv.tv##.lpp0nsn
-buomtv.tv##.luq51lg.a13wihj
+
 
