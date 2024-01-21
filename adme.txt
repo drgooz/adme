@@ -8,9 +8,9 @@
 ||123nhadatviet.net/Media/CK/banners/
 
 ||https://ophim.org/popup.jpg
-ophim.org###popup-giua-man-hinh > div.popUpBannerBox:nth-child(2) > div.popUpBannerInner > div.popUpBannerContent
-ophim.org###popup-giua-man-hinh > div.popUpBannerBox:nth-child(2) > div.popUpBannerInner > div.popUpBannerContent
-ophim.org###popup-giua-man-hinh > div.popUpBannerBox:nth-child(2) > div.popUpBannerInner
+||ophim.org###popup-giua-man-hinh > div.popUpBannerBox:nth-child(2) > div.popUpBannerInner > div.popUpBannerContent
+||ophim.org###popup-giua-man-hinh > div.popUpBannerBox:nth-child(2) > div.popUpBannerInner > div.popUpBannerContent
+||ophim.org###popup-giua-man-hinh > div.popUpBannerBox:nth-child(2) > div.popUpBannerInner
 ophim.org###popup-giua-man-hinh > div.popUpBannerBox:nth-child(2) > div.popUpBannerInner > div.popUpBannerContent
 ophim.org###catfish > button.closecf:first-child
 ophim.org###catfish > a:nth-child(3) > img.catfish-img
